@@ -17,8 +17,13 @@ A small visualization project of fetching and visualizing NeurIPS submission fro
 
 ![NeurIPS_Keywords_2024](graphs/NeurIPS_Keywords_2024.png)
 ![NeurIPS_Keywords_2024](graphs/NeurIPS_Keywords.gif)
-{ % include_relative graphs/paper_submissions_with_llm_keyword_trend.html % } 
-{ % include_relative graphs/subject_area_distribution_with_llm_keyword.html % } 
+
+<!-- [![Site link](https://img.shields.io/badge/View_site-Jekyll_Blog_Demo-blue?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-blog-demo/ "Go to demo site") -->
+
+[![Paper Submissions with LLM Keyword](graphs/paper_submissions_with_llm_keyword.html)](graphs/paper_submissions_with_llm_keyword.html "View interactive plot by Plotly")
+[![Subject Area Distribution with LLM Keyword](graphs/subject_area_distribution_with_llm_keyword.html)](graphs/subject_area_distribution_with_llm_keyword.html "View interactive plot by Plotly")
+<!-- { % include_relative graphs/paer_submissions_with_llm_keyword_trend.html % }  -->
+<!-- { % include_relative graphs/subject_area_distribution_with_llm_keyword.html % }  -->
 
 ## TODO
 - Re-write data wrangling code into functions to increase readability.
