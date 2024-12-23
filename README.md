@@ -17,16 +17,16 @@ A small visualization project of fetching and visualizing NeurIPS submission fro
 
 ![NeurIPS_Keywords_2024](graphs/NeurIPS_Keywords_2024.png)
 ![NeurIPS_Keywords_2024](graphs/NeurIPS_Keywords.gif)
-
-<!-- [![Site link](https://img.shields.io/badge/View_site-Jekyll_Blog_Demo-blue?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-blog-demo/ "Go to demo site") -->
-
-[![Paper Submissions with LLM Keyword](graphs/paper_submissions_with_llm_keyword.html)](graphs/paper_submissions_with_llm_keyword.html "View interactive plot by Plotly")
-[![Subject Area Distribution with LLM Keyword](graphs/subject_area_distribution_with_llm_keyword.html)](graphs/subject_area_distribution_with_llm_keyword.html "View interactive plot by Plotly")
+![Paper Submissions with LLM Keyword](graphs/Screenshot_paper_submissions_with_llm_keyword.png)
+![Subject Area Distribution with LLM Keyword](graphs/Screenshot_subject_area_distribution_with_llm_keyword.png)
+<!-- [![Paper Submissions with LLM Keyword](graphs/paper_submissions_with_llm_keyword.html)](graphs/paper_submissions_with_llm_keyword.html "View interactive plot by Plotly") -->
+<!-- [![Subject Area Distribution with LLM Keyword](graphs/subject_area_distribution_with_llm_keyword.html)](graphs/subject_area_distribution_with_llm_keyword.html "View interactive plot by Plotly") -->
 <!-- { % include_relative graphs/paer_submissions_with_llm_keyword_trend.html % }  -->
 <!-- { % include_relative graphs/subject_area_distribution_with_llm_keyword.html % }  -->
 
 ## TODO
 - Re-write data wrangling code into functions to increase readability.
+- Fix the plotly html plot into README.md or [embed into Github Pages](https://automating-gis-processes.github.io/2016/Lesson5-share-on-github.html)
 - Access all reviews from OpenReview API.
 - Apply funnel analysis from submission to accept. 
 
