@@ -28,7 +28,8 @@ A small visualization project of fetching and visualizing NeurIPS submission fro
 - Re-write data wrangling code into functions to increase readability.
 - Fix the plotly html plot into README.md or [embed into Github Pages](https://automating-gis-processes.github.io/2016/Lesson5-share-on-github.html)
 - Access all reviews from OpenReview API.
-- Apply funnel analysis from submission to accept. 
+- Apply funnel analysis from submission to accept.
+- [NeurIPS 2024 Experiment on Improving the Paper-Reviewer Assignment](https://blog.neurips.cc/2024/12/12/neurips-2024-experiment-on-improving-the-paper-reviewer-assignment/)
 
 ## Reference
 
